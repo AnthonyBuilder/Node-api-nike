@@ -1,0 +1,23 @@
+{
+  "name": "shoes-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyBuilder/Nike-Store-IOS-SwiftUI.git"
+  },
+  "author": "AnthonyBuilder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyBuilder/Nike-Store-IOS-SwiftUI/issues"
+  },
+  "homepage": "https://github.com/AnthonyBuilder/Nike-Store-IOS-SwiftUI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ngrok": "^3.4.0"
+  }
+}
